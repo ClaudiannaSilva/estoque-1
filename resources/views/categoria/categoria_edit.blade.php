@@ -14,6 +14,7 @@
     <p>Formulário</p>
 
 //teste
+//teste
 
     {!! Form::open(['url' => 'categoria/' . $categoria->id, 'method' => 'put']) !!}
 
